@@ -107,7 +107,8 @@ body{
     text-decoration: none;
 }
 
-
+/* Great work with the top navigation, responsiveness, and the hamburger icon
+Nice sticky menu on top */
 
 .hello{
     height: 420px;
@@ -203,6 +204,9 @@ body{
     font-weight: 300;
     margin-bottom: 25px;
 }
+
+/* Great responsiveness with flex. Really good work.
+Nice subtle hover, with good paced animaton */
 
 .button{
     width: 88%;
@@ -389,7 +393,7 @@ h1{
 
 
 
-
+/* Great media queries all the way. */
 
 @media only screen and (max-width: 780px){
     
